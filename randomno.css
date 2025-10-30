@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mybutton{
+    font-size: 2.5em;
+    padding: 5px 15px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px;
+}
+#mybutton:hover{
+    background-color: black;
+    color: antiquewhite;
+    box-shadow: 3px 3px 3px gray;
+    cursor: pointer;
+}
+label{
+    font-size: 2.5em;
+    text-decoration: underline 1px;
+    font-family: Cambria, Cochin, Georgia;
+}
